@@ -1,0 +1,24 @@
+# Java build output
+target/
+backend-java/target/
+
+# Maven local caches
+.m2/
+backend-java/.m2/
+
+# Local portable tools and downloaded binaries
+backend-java/tools/
+
+# Runtime/test files
+cookies.txt
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
